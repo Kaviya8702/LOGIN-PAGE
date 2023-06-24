@@ -1,2 +1,4 @@
 # LOGIN-PAGE
-Here I have designed a simple login page using HTML and CSS.
+I have designed a simple login page using HTML and CSS.
+Used hover effect for the buttons which improves the user experience.
+
